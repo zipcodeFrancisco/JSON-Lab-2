@@ -13,6 +13,6 @@ Write the following info for each movie to the webpage:
 
 Only list movies that were made at the Golden State Bridge
 
-Use document.getElementById('result').innerHTML += your_output; to write the movie's info to the page.
+Use "document.getElementById('result').innerHTML += your_output;" to write the movie's info to the page.
 
-Append "<br>" to output code to create a new line
+Append "&lt;br&gt;" to output code to create a new line
