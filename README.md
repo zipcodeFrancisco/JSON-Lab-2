@@ -1,5 +1,5 @@
-Instructions
-#######################################################################################
+# Instructions
+
 Us the XMLHttpRequest() to receive the remote json feed from the following website
 https://data.sfgov.org/api/views/yitu-d5am/rows.json?accessType=DOWNLOAD
 
